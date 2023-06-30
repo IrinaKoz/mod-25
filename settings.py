@@ -1,2 +1,2 @@
-email = 'nkudel@rambler.ru'
-password = '771367'
+email = 'shvedylya@gmail.com'
+password = '771555'
